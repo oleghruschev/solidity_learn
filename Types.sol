@@ -2,6 +2,8 @@
 
 pragma solidity ^0.8.0;
 
+// bool, uint
+
 // 1) bool
 // 2) unsigned integers - без знака (положительное) >= 0
 //    signed integers - со знаком < 0
